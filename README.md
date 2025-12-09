@@ -1,7 +1,6 @@
-<div style="text-align:center;">
-  <h2>Welcome to My Profile</h2>
-  <img src="https://github.com/dimarcode.png" width="120" />
-</div>
+## Welcome!
+
+This is my GitHub!
 
 <!--
 **dimarcode/dimarcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
