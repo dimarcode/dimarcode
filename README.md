@@ -1,9 +1,3 @@
-
-<div style="text-align:center;">
-  <h2>Welcome to My Profile</h2>
-  <img src="https://github.com/USERNAME.png" width="120" />
-</div>
-
 ## Hi there 👋
 
 This is my GitHub!
